@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/take_picture_action"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Item"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_favorite"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="favourite"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/upload"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="@string/upload"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/settings"
+        app:showAsAction="ifRoom" />
+</menu>

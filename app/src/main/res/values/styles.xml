@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+
+        <item name="android:buttonStyle">@style/Widget.AppCompat.Button.Borderless.Colored</item>
+    </style>
+<style name="my_style" parent="Theme.AppCompat.DayNight">
+    <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+
+
+
+
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#53ff4081</item>
+
+    </style>
+
+    <color name="action_bar_color" />
+</resources>

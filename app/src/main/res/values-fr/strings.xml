@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Insectolande</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="settings">Paramètres</string>
+    <string name="restore">remettre ma liste à zéro</string>
+    <string name="share">partager</string>
+    <string name="send_to">envoyer à</string>
+    <string name="see_image_delete">supprimer</string>
+    <string name="suppression_ok">L\'image a été supprimée</string>
+    <string name="supprimer_mes_insectes">Supprimer mes insectes et mes photos</string>
+    <string name="sign_out">fermer mon compte</string>
+    <string name="recherche_de_linsecte">Recherche de l\'insecte...</string>
+    <string name="welcome_message">Vous n\'avez pas encore d\'insectes dans votre liste, prenez une photo pour en identifier un</string>
+    <string name="take_a_photo">prendre une photo</string>
+    <string name="my_pictures">mes photos</string>
+    <string name="add_to_my_list">ajouter</string>
+    <string name="upload">upload</string>
+    <string name="upload_a_picture">choisir une photo</string>
+    <string name="language_code">fr</string>
+    <string name="probability">Probabilité:</string>
+    <string name="opinion">Demande l\'opinion d\'un expert gratuitement:</string>
+    <string name="ask_here_by_email">Demande ici par email</string>
+    <string name="hi_leonard_could_you">Bonjour Leonard,\n\n pourriez vous identifier mon insecte s\'il vous plaît?  \n\nMerci.</string>
+    <string name="why_usage">S\'il vous plaît, dites nous si vous voulez reconnaitre un insecte nuisible ou vous voulez juste vous amuser. Si c\'est un insecte nuisible, êtes vous un agriculteur ou avez vous trouvé l\'insecte dans votre maison/ jardin?\n\n IMPORTANT: faites une photo de l'incecte où on voit tout l'insecte au milieu de l'écran et on le voit en GRAND.</string>
+
+</resources>
